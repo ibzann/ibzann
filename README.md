@@ -18,7 +18,7 @@
 **Languages I know**
 - Some PHP <img height="15" src="https://svgshare.com/i/V9h.svg">
 - Some Ruby <img height="15" src="https://i.ibb.co/ggyDP8Y/1024px-Ruby-logo-svg.png">
-- Some C# <img height="15" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67">
+- Some C# <img height="20" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67">
 - Javascript <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 - HTML <img height="15" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png">
 - CSS <img height="15" src="https://cdn.345tool.com/public/logos/css-formatter-logo.png">
