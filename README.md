@@ -13,7 +13,7 @@
 ![GitHub](https://img.shields.io/github/followers/ibzann?color=1c1c1c&label=follow&logo=github&style=for-the-badge)
 [![Website](https://img.shields.io/badge/Portfolio-Visit-1c1c1c?style=for-the-badge)](https://me.nighthub.xyz)
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=ibzann&show_icons=true&theme=dark&icon_color=eee">     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibzann&theme=dark&hide_langs_below=1"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=ibzann&show_icons=true&theme=dark&icon_color=eee">     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibzann&theme=dark&hide_langs_below=1-"></p>
 
 **Languages I know**
 - Some PHP <img height="15" src="https://svgshare.com/i/V9h.svg">
