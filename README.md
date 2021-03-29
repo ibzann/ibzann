@@ -1,8 +1,8 @@
 
 <h1>hi im ibzan 👋</h1>
 
-- 🔭 I’m currently working on [Tundra](google.co)
-- 🌱 I’m currently learning Ruby
+- 🔭 I’m currently working on nothing
+- 🌱 I’m currently learning nothing
 - 👯 I’m looking to collaborate on any project
 - 🤔 I’m looking for help with Javascript
 - 📫 How to reach me: [Email](mailto:ibzan@nighthub.xyz)
