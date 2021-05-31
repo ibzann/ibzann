@@ -1,7 +1,7 @@
 
 <h1>hi im ibzan 👋</h1>
 
-- 🔭 I’m currently working on [DiscordRichPresence](https://github.com/ibzann/discordrichpresence)
+- 🔭 I’m currently working on [Ocean (Private)](https://google.com/)
 - 🌱 I’m currently learning nothing
 - 👯 I’m looking to collaborate on any project
 - 🤔 I’m looking for help with Javascript
