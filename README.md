@@ -1,11 +1,11 @@
 
 <h1>hi im ibzan 👋</h1>
 
-- 🔭 I’m currently working on [Ocean (Private)](https://ocean.cx/)
-- 🌱 I’m currently learning nothing
+- 🔭 I’m currently working on SynoBuilder
+- 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on any project
 - 🤔 I’m looking for help with Javascript
-- 📫 How to reach me: [Email](mailto:ibzan@nighthub.xyz)
+- 📫 How to reach me: [Email](mailto:ibzan@ocean.cx)
 <!--- 💬 Ask me about ..-->
 <!--- ⚡ Fun fact: ..-->
 <!-- - 😄 Pronouns: ..-->
