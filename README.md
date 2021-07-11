@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on any project
 - 🤔 I’m looking for help with Javascript
-- 📫 How to reach me: [Email](mailto:ibzan@ocean.cx), [Discord]("https://discord.com/users/393936136826912768")
+- 📫 How to reach me: [Email](mailto:ibzan@ocean.cx) [Discord](https://discord.com/users/393936136826912768)
 <!--- 💬 Ask me about ..-->
 <!--- ⚡ Fun fact: ..-->
 <!-- - 😄 Pronouns: ..-->
