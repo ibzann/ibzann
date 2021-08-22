@@ -1,7 +1,7 @@
 
 <h1>hi im ibzan 👋</h1>
 
-- 🔭 I’m currently working on SynoBuilder
+- 🔭 I’m currently working on Sugoi (again)
 - 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on any project
 - 🤔 I’m looking for help with Javascript
