@@ -20,3 +20,7 @@
 - Javascript <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 - HTML <img height="15" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png">
 - CSS <img height="15" src="https://cdn.345tool.com/public/logos/css-formatter-logo.png">
+
+**Languages I'm learning**
+- C++
+- Rust
